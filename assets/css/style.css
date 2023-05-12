@@ -1,0 +1,83 @@
+body{
+    font-family:  'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'Lucida Sans Regular',
+    Geneva, Verdana, sans-serif;
+}
+
+.header{
+    background-image: url(../imgs/1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10em;
+    background-position: center center;
+}
+
+.header h1{
+    color: white;
+    margin: -10px;
+    font-weight: 900;
+}
+
+.header p{
+    margin: 7 0 0 45;
+    color: white;
+}
+
+.destinos{
+    width: 50%;
+}
+
+.destinos td{
+    margin-right: 15%;
+    border: 1em;
+    padding:  0 32 0 0;
+}
+
+.destinos tr{
+    border: 0;
+    padding: 0;
+}
+
+.destinos table{
+    margin-left: 15em;
+}
+
+.imagen{
+    padding: 0;
+    margin-top: 14px;
+    margin-bottom: 1em;
+    margin-right: 45px;
+}
+
+.footer{
+    background-color: rgb(28, 59, 71);
+    line-height: 3em;
+    font-weight: 800;
+}
+
+.footer table{
+    margin: 100px;
+}
+
+.footer td{
+    padding-right: 20px;
+}
+.footer p{
+    color: white;
+}
+
+.oferta{
+    background-color: rgb(126, 160, 179);
+    border-radius: 5px;
+    width: 80px;
+    font-size: medium;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: -30px;
+    position: absolute;
+}
+
+.estrella{
+    color: rgb(225, 225, 30);
+    position: absolute;
+}
